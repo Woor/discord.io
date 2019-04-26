@@ -18,7 +18,9 @@ A small, single-file, fully featured [Discordapp](https://discordapp.com) librar
     * **Node.js 0.12.x**
     * **ffmpeg/avconv** (needs to be added to PATH)
     
-### [Documentation / Gitbooks](https://izy521.gitbooks.io/discord-io/content/)
+### Documentation / Gitbooks:
+* [Gitbook](https://izy521.gitbooks.io/discord-io/content/)
+* [All Methods](https://izy521.github.io/discord.io-docs/Discord.Client.html)
 
 ### Getting Started:
 
